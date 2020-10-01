@@ -9,7 +9,7 @@
 During a pandemic, governemnt issued state-wide shutdowns could prevent overwhelming the hosptial system but timing is key. Reacting after there are too many cases can be too late. To prevent unnecessary increases in deaths, governments need to react promptly to indications of case numbers increasing sharply. Can we predict case rises in advance? I applied k-nearest neighbor algorithm to predict case numbers. I also used daily positive case numbers and test numbers from the Covid tracking project, and political party of the governning state as a parameter. ** This project is still in progress
 
 
-<img src="https://github.com/maayaikeda/MaayaIkeda.portfolio/blob/master/images/predictions.png" width=40% height=40%>
+![florida](/images/floridavermont.png)
 
 
 
