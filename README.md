@@ -4,6 +4,12 @@
 ## Projects:
 (newest first)
 
+### Project 4: [Syllable classifier for birdsong research](https://github.com/maayaikeda/syllable_classifier)
+
+In songbird research, researchers manipulate the brain to see if it effects the birds' singing behavior. However, analyzing different features of thousands of songs takes a long time. Here, I used deep learning to develop a classifier that segments and classify the elements (syllables) of songs. The accuracy with songs from a test bird is over 95% (it's as good as my eyes, who sorted the images to train the model). 
+
+![syllables](/images/syllables.png)
+
 ### Project 3: [COVID-19 case prediction using machine learning](https://github.com/maayaikeda/covid_case_prediction)
 
 During a pandemic, governemnt issued state-wide shutdowns could prevent overwhelming the hosptial system but timing is key. Reacting after there are too many cases can be too late. To prevent unnecessary increases in deaths, governments need to react promptly to indications of case numbers increasing sharply. Can we predict case rises in advance? I applied k-nearest neighbor algorithm to predict case numbers. I also used daily positive case numbers and test numbers from the Covid tracking project, and political party of the governning state as a parameter. ** This project is still in progress
