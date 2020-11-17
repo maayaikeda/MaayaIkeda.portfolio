@@ -1,6 +1,11 @@
 
 # Data Science Portfolio
 
+## About me:
+
+I am a Data Scientist with a Ph.D. in Molecular and Cellular Biology (UMasss, Amherst) and B.A. in Neuroscience.  During my undergraduate and Ph.D., I did research on the role of brain-produced estrogens on neurophysiology. After my Ph.D., I did a postdoc at UT Southwestern Medical Center on the neurocircuits underlying imitation behavior in songbirds. 
+
+
 ## Projects:
 (newest first)
 
