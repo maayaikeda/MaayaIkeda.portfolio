@@ -1,5 +1,5 @@
 
-# Data Science Portfolio
+# Data Portfolio
 
 
 ## Projects:
